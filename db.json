@@ -4,6 +4,11 @@
     { "id": 2, "title": "data 2" },
     { "id": 3, "title": "data 3" }
   ],
+  "posts": [
+    { "id": 1, "title": "posts 1" },
+    { "id": 2, "title": "postsposts 2" },
+    { "id": 3, "title": "posts 3" }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
