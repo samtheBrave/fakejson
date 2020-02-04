@@ -1,10 +1,6 @@
 {
-  "datasets": [
-    { "id": 1, "title": "data 1" },
-    { "id": 2, "title": "data 2" },
-    { "id": 3, "title": "data 3" }
-  ],
- "QNA": [
+
+  "QNA": [
     {
       "id": 18082,
       "question": "can we accept cash",
@@ -115,12 +111,6 @@
       "url": "https://ku.a-star.edu.sg/Corporate/ITSS/ITSSServiceOfferingsSLA/ITSSScopeofServicesSLAs/ScopeofServices.aspx",
       "short_answer": "Please refer to the ITSS Service Offerings at KU"
     }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
+
 }
