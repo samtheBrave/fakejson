@@ -4,10 +4,117 @@
     { "id": 2, "title": "data 2" },
     { "id": 3, "title": "data 3" }
   ],
-  "posts": [
-    { "id": 1, "title": "posts 1" },
-    { "id": 2, "title": "postsposts 2" },
-    { "id": 3, "title": "posts 3" }
+ "QNA": [
+    {
+      "id": 18082,
+      "question": "can we accept cash",
+      "answer": "",
+      "status": "Not Updated",
+      "category": "General Finance",
+      "pos_set": 0,
+      "neg_set": 0,
+      "url": "",
+      "short_answer": "We do not accept cash receipts. Customer could either pay by bank transfer or cheque to our account."
+    },
+    {
+      "id": 18081,
+      "question": "I would need the WBS numbers for the projects I am working on",
+      "answer": "",
+      "status": "Not Updated",
+      "category": "General Finance",
+      "pos_set": 0,
+      "neg_set": 0,
+      "url": "",
+      "short_answer": "You may contact the Finance Partner of your institute for the WBS number"
+    },
+    {
+      "id": 18080,
+      "question": "Who is Ms Chan Lai Fung?",
+      "answer": "",
+      "status": "Not Updated",
+      "category": "Others",
+      "pos_set": 1,
+      "neg_set": 0,
+      "url": "https://www.a-star.edu.sg/About-A-STAR/Corporate-Profile/A-STAR-Board/Ms-Chan-Lai-Fung",
+      "short_answer": "Ms Chan Lai Fung is our Chairman. You can refer to our website to know more about her"
+    },
+    {
+      "id": 18079,
+      "question": "Who is Mr Frederick Chew?",
+      "answer": "",
+      "status": "Not Updated",
+      "category": "",
+      "pos_set": 0,
+      "neg_set": 0,
+      "url": "https://www.a-star.edu.sg/About-A-STAR/Corporate-Profile/A-STAR-Board/Mr-Frederick-Chew",
+      "short_answer": "Mr Frederick Chew is our CEO. You can refer to our website to know more about him"
+    },
+    {
+      "id": 18078,
+      "question": "Who is A*STAR's CEO?",
+      "answer": "",
+      "status": "Not Updated",
+      "category": "",
+      "pos_set": 0,
+      "neg_set": 0,
+      "url": "https://www.a-star.edu.sg/About-A-STAR/Corporate-Profile/A-STAR-Board/Mr-Frederick-Chew",
+      "short_answer": "Our CEO is Mr Frederick Chew. You can refer to our website to know more about him"
+    },
+    {
+      "id": 18077,
+      "question": "What is FA?",
+      "answer": "",
+      "status": "Not Updated",
+      "category": "Fixed Assets",
+      "pos_set": 0,
+      "neg_set": 0,
+      "url": "",
+      "short_answer": "FA stands for Fixed Assets."
+    },
+    {
+      "id": 18076,
+      "question": "i want to sign an mou",
+      "answer": "",
+      "status": "Not Updated",
+      "category": "Functions of A*STAR Legal",
+      "pos_set": 0,
+      "neg_set": 0,
+      "url": "",
+      "short_answer": "Please contact the relevant legal counsel for your RI/entity/key account. Refer to A*STAR Legal’s work cluster at: https://ku.a-star.edu.sg/Corporate/Legal/AboutUs/LegalWorkCluster.aspx."
+    },
+    {
+      "id": 18075,
+      "question": "Can I dispose assets that are still in working condition?",
+      "answer": "All assets that are transferrable and still in good working condition, the disposing Entity shall first offer the asset to the other Reporting Entities. If there are no takers, the assets can then be disposed. Deviations from this policy may be considered on a case-by-case basis by the DED (BMRC/SERC).",
+      "status": "Not Updated",
+      "category": "Fixed Asset",
+      "pos_set": 0,
+      "neg_set": 0,
+      "url": "https://ku.a-star.edu.sg/Corporate/Finance/FinanceRI/FinancialPolicyandProcedure.aspx",
+      "short_answer": "Assets that are still in working condition, the disposing Entity shall first offer the asset to other Entities. If there are no takers, the assets can then be disposed."
+    },
+    {
+      "id": 18074,
+      "question": "how do i zip files?",
+      "answer": "",
+      "status": "Not Updated",
+      "category": "Helpdesk",
+      "pos_set": 0,
+      "neg_set": 0,
+      "url": "",
+      "short_answer": "Please do a Right Click on the file to bring up the context menu and Navigate to “Send to” and choose “Compressed (zipped) folder."
+    },
+    {
+      "id": 18073,
+      "question": "what are the standard corporate desktop software offered by ITSS?",
+      "answer": "",
+      "status": "Not Updated",
+      "category": "Helpdesk",
+      "pos_set": 0,
+      "neg_set": 0,
+      "url": "https://ku.a-star.edu.sg/Corporate/ITSS/ITSSServiceOfferingsSLA/ITSSScopeofServicesSLAs/ScopeofServices.aspx",
+      "short_answer": "Please refer to the ITSS Service Offerings at KU"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
