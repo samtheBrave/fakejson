@@ -115,7 +115,7 @@
     {
       "id": 8,
       "Name": "Normal Qna v10",
-      "QNA": "QNA",
+      "qna": "QNA",
       "status": "Not Active",
       "Last edited": "Admin",
       "Time": "2020-01-29 17:21:00",
@@ -124,7 +124,7 @@
     {
       "id": 6,
       "Name": "Normal Qna v5",
-       "QNA": "QNA",
+       "qna": "QNA",
       "status": "Active",
       "Last edited": "Admin",
       "Time": "2020-02-1 12:21:00",
@@ -133,7 +133,7 @@
     {
       "id": 3,
       "Name": "Normal Qna v3",
-       "QNA": "QNA",
+       "qna": "QNA",
       "status": "Inactive",
       "Last edited": "Admin",
       "Time": "2019-12-12 14:21:00",
@@ -142,7 +142,7 @@
     {
       "id": 1,
       "Name": "Normal Qna v1",
-       "QNA": "QNA",
+       "qna": "QNA",
       "status": "Inactive",
       "Last edited": "Admin",
       "Time": "2020-11-29 17:21:00",
