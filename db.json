@@ -1,43 +1,5 @@
 {
-  "test": [
-    {
-      "id": 1,
-      "qna":"QNA",
-      "question": "can we accept cash",
-      "answer": "",
-      "status": "Not Updated",
-      "category": "General Finance",
-      "pos_set": 0,
-      "neg_set": 0,
-      "url": "",
-      "short_answer": "We do not accept cash receipts. Customer could either pay by bank transfer or cheque to our account."
-    },
-    {
-      "id": 1,
-      "qna":"QNA",
-      "question": "I would need the WBS numbers for the projects I am working on",
-      "answer": "",
-      "status": "Not Updated",
-      "category": "General Finance",
-      "pos_set": 0,
-      "neg_set": 0,
-      "url": "",
-      "short_answer": "You may contact the Finance Partner of your institute for the WBS number"
-    },
-    {
-      "id": 1,
-      "qna":"QNA",
-      "question": "Who is Ms Chan Lai Fung?",
-      "answer": "",
-      "status": "Not Updated",
-      "category": "Others",
-      "pos_set": 1,
-      "neg_set": 0,
-      "url": "https://www.a-star.edu.sg/About-A-STAR/Corporate-Profile/A-STAR-Board/Ms-Chan-Lai-Fung",
-      "short_answer": "Ms Chan Lai Fung is our Chairman. You can refer to our website to know more about her"
-    },
-  ],
-  "QNA": [
+   "QNA": [
     {
       "id": 18082,
       "qna":"QNA",
