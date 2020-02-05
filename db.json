@@ -24,6 +24,18 @@
       "url": "",
       "short_answer": "You may contact the Finance Partner of your institute for the WBS number"
     },
+    {
+      "id": 1,
+      "qna":"QNA",
+      "question": "Who is Ms Chan Lai Fung?",
+      "answer": "",
+      "status": "Not Updated",
+      "category": "Others",
+      "pos_set": 1,
+      "neg_set": 0,
+      "url": "https://www.a-star.edu.sg/About-A-STAR/Corporate-Profile/A-STAR-Board/Ms-Chan-Lai-Fung",
+      "short_answer": "Ms Chan Lai Fung is our Chairman. You can refer to our website to know more about her"
+    },
   ],
   "QNA": [
     {
